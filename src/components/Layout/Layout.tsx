@@ -1,8 +1,6 @@
 import { Inter, Roboto_Mono } from 'next/font/google';
 import { Fragment } from 'react';
 import Header from '../Header/Header';
-import Navbar from '../Navbar/Navbar';
-import Footer from '../Footer/Footer';
 
 const inter = Inter({
 	subsets: ['latin'],
@@ -26,9 +24,7 @@ const Layout: React.FunctionComponent<LayoutProps> = ({ children }) => {
 			<Header />
 			<div
 				className={`${inter.variable} ${robotoMono.variable} mx-auto flex min-h-screen max-w-7xl flex-col items-center justify-center px-4 font-sans lg:px-8`}>
-				{/* <Navbar /> */}
 				{children}
-				{/* <Footer /> */}
 			</div>
 		</Fragment>
 	);
