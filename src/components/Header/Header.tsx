@@ -14,23 +14,23 @@ const Header: React.FunctionComponent = ({}) => {
 				name='viewport'
 				content='width=device-width, initial-scale=1.0'
 			/>
-			<meta property='og:url' content='' />
+			<meta property='og:url' content='https://pomodoro-wallq.vercel.app/' />
 			<meta property='og:type' content='website' />
 			<meta property='og:title' content='Pomodoro' />
 			<meta
 				property='og:description'
 				content='Pomodoro is a productivity app designed for your work and study. Stay focused and finish tasks effectively. Take more time to your life.'
 			/>
-			<meta property='og:image' content='' />
+			<meta property='og:image' content='https://pomodoro-wallq.vercel.app/assets/logo/64.svg' />
 			<meta name='twitter:card' content='summary_large_image' />
-			<meta property='twitter:domain' content='' />
-			<meta property='twitter:url' content='' />
+			<meta property='twitter:domain' content='pomodoro-wallq.vercel.app' />
+			<meta property='twitter:url' content='https://pomodoro-wallq.vercel.app/' />
 			<meta name='twitter:title' content='Pomodoro' />
 			<meta
 				name='twitter:description'
 				content='Pomodoro is a productivity app designed for your work and study. Stay focused and finish tasks effectively. Take more time to your life.'
 			/>
-			<meta name='twitter:image' content='' />
+			<meta name='twitter:image' content='https://pomodoro-wallq.vercel.app/assets/logo/64.svg' />
 			<link
 				rel='apple-touch-icon'
 				sizes='180x180'

@@ -50,7 +50,7 @@
     ],
     "theme_color": "#211d2b",
     "background_color": "#211d2b",
-    "start_url": "https://example.com",
+    "start_url": "https://pomodoro-wallq.vercel.app/",
     "display": "standalone",
     "orientation": "portrait"
 }

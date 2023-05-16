@@ -14,7 +14,7 @@ const Hero: React.FunctionComponent = ({}) => {
 				<div className='grid grid-cols-2 grid-rows-1 gap-x-20'>
 					<div className='flex flex-col items-start justify-between space-y-8'>
 						<Image
-							src='/assets/Logo/48.svg'
+							src='./assets/logo/48.svg'
 							alt='Pomodoro'
 							width={48}
 							height={48}
