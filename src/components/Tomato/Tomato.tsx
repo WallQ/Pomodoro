@@ -15,7 +15,7 @@ const Tomato: React.FunctionComponent = () => {
 			style={{ width: '100%', height: '100%' }}>
 			<PresentationControls
 				enabled={true}
-				global={false}
+				global={true}
 				cursor={true}
 				speed={0.5}
 				zoom={1}
